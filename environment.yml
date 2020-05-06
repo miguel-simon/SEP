@@ -1,7 +1,0 @@
-name: base
-channels:
-  - defaults
-dependencies:
-  - numpy=1.17.4
-  - numpy-base=1.17.4
-  - numpydoc=0.9.1
